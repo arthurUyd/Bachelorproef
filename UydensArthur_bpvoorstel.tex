@@ -1,72 +1,43 @@
-%==============================================================================
-% Sjabloon onderzoeksvoorstel bachproef
-%==============================================================================
-% Gebaseerd op document class `hogent-article'
-% zie <https://github.com/HoGentTIN/latex-hogent-article>
+%!TEX program = xelatex
 
-% Voor een voorstel in het Engels: voeg de documentclass-optie [english] toe.
-% Let op: kan enkel na toestemming van de bachelorproefcoördinator!
 \documentclass{hogent-article}
 
-% Invoegen bibliografiebestand
 \addbibresource{voorstel.bib}
 
-% Informatie over de opleiding, het vak en soort opdracht
 \studyprogramme{Professionele bachelor toegepaste informatica}
 \course{Bachelorproef}
 \assignmenttype{Onderzoeksvoorstel}
-% Voor een voorstel in het Engels, haal de volgende 3 regels uit commentaar
-% \studyprogramme{Bachelor of applied information technology}
-% \course{Bachelor thesis}
-% \assignmenttype{Research proposal}
 
-\academicyear{2023-2024} % TODO: pas het academiejaar aan
 
-% TODO: Werktitel
-\title{Efficiënte Ontwikkeling van Schaalbare Enterprise Webapplicaties: Een Onderzoek naar Best Practices en Technologieën}
+\academicyear{2023-2024} 
 
-% TODO: Studentnaam en emailadres invullen
+
+\title{De ontwikkeling van een co-pilot gebaseerd op een MS Dynamics 365 platform}
+
 \author{Arthur Uydens }
 \email{arthur.uydens@student.hogent.be}
 
-% TODO: Medestudent
-% Gaat het om een bachelorproef in samenwerking met een student in een andere
-% opleiding? Geef dan de naam en emailadres hier
-% \author{Yasmine Alaoui (naam opleiding)}
-% \email{yasmine.alaoui@student.hogent.be}
 
-% TODO: Geef de co-promotor op
-\supervisor[Co-promotor]{S. Beekman (Synalco, \href{mailto:sigrid.beekman@synalco.be}{sigrid.beekman@synalco.be})}
+\supervisor[Co-promotor]{}
 
-% Binnen welke specialisatierichting uit 3TI situeert dit onderzoek zich?
-% Kies uit deze lijst:
-%
-% - Mobile \& Enterprise development
-% - AI \& Data Engineering
-% - Functional \& Business Analysis
-% - System \& Network Administrator
-% - Mainframe Expert
-% - Als het onderzoek niet past binnen een van deze domeinen specifieer je deze
-%   zelf
-%
 \specialisation{Mobile \& Enterprise development}
-\keywords{Enterprise Webapplicaties, Schaalbaarheid, Best Practices, Technologieën, Onderzoek}
+\keywords{co-pilot, MS Dynamics 365, AI , chatbot}
 
 \begin{document}
 
-\begin{samenvatting}
-  Dit onderzoeksvoorstel richt zich op de efficiënte ontwikkeling van schaalbare enterprise webapplicaties, een groeiend en belangrijk aspect in de snel evoluerende zakelijke omgeving. Na een voorstelling van het thema en een kadering van de relevantie van krachtige webapplicaties voor ondernemingen, identificeert het de centrale probleemstelling met de noodzaak om best practices en geschikte technologieën te vinden voor het ontwikkelen van dergelijke applicaties. De onderzoeksvraag richt zich op het identificeren van vereisten voor schaalbare zulke webapplicaties en het evalueren van de toepasbaarheid van bestaande ontwikkelingspraktijken. De doelstellingen omvatten het vergelijken van bestaande web development frameworks, het ontwikkelen van een prototype en het analyseren van dit prototype. De voorgestelde methodologie omvat een literatuurstudie, casestudy's, frameworkvergelijking, prototype-ontwikkeling en gebruikerstests. De verwachte resultaten omvatten een overzicht van vereisten, identificatie van best practices, een frameworkvergelijking en een werkend prototype. De meerwaarde van dit onderzoek ligt in het bieden van praktische inzichten voor ontwikkelaars en bedrijven die streven naar schaalbare, efficiënte webapplicaties, wat de doelgroep zal helpen bij het verbeteren van hun ontwikkelingsprocessen en het kiezen van geschikte technologieën voor enterprise web development.
+\section{Samenvatting}
+Dit onderzoeksvoorstel richt zich op het ontwikkelen van een co-pilot op een platform dat gebruik maakt van het MS-Dynamics 365 ERP-pakket.De opdracht is in naam van Itineris waarvan Peter Baeke, R&D Manager Business Unit North America, de rol van co-promotor opneemt en me inhoudelijk zal bijstaan. De co-pilot zou de medewerkers moeten ondersteunen in hun business handelingen en de werkdruk moeten verlagen. Er zal naar zowel het gebruik als naar het correct trainen van de co-pilot gekeken worden om uiteindelijk tot een werkende en efficiënte co-pilot te komen. Er zal onderzocht worden naar de beste manieren waarop de co-pilot gebruikt zal kunnen worden, waar er eventuele valkuilen zitten, hoe de co-pilot getraind kan worden en wat de beste manier is om deze training te voltooien. Met al deze informatie zal er dan een product gemaakt worden om deze opdracht succesvol te voltooien. Met dit eindproduct zullen er verschillende scenario's uitgevoerd worden waarop er dan aan de hand van verschillende criteria beslist wordt of het scenario succesvol is uitgevoerd.
 
-\section*{Introductie}
-De behoefte aan krachtige, schaalbare webapplicaties binnen ondernemingen groeit snel. Dit onderzoeksvoorstel streeft naar het identificeren en evalueren van best practices en technologieën die de efficiënte ontwikkeling van schaalbare enterprise webapplicaties helpen bevorderen.
+\section{Introductie}
+Aritificiële Intelligentie is de wetenschap van de toekomst. Indien je als bedrijf niet op inzet in het jaar 2024 zal je bedrijf een achterstand opwerken op de competitie. Dit onderzoeksvoorstel streeft naar praktische ondersteuning en info te geven over hoe een co-pilot systeem gebruikt kan worden binnen de bestaande applicatie die Itineris aanbied.  
 
 De doelgroep van deze bachelorproef zijn bedrijven die webapplicaties voor andere ondernemingen ontwikkelen. Hier zijn vele voorbeelden van zoals Delaware, HiveCPQ, etc... Deze bedrijven hebben vaak te maken met een grote hoeveelheid gebruikers en data. Het is dus belangrijk dat de applicaties die zij ontwikkelen schaalbaar zijn. Dit betekent dat de applicaties in staat moeten zijn om te groeien en zich aan te passen aan de veranderende behoeften van de gebruikers. Daarnaast moeten de applicaties ook goed presteren en veilig zijn.
 
 De onderzoeksvraag luidt dus: \textbf{
-  Hoe kunnen we de efficiënte ontwikkeling van schaalbare enterprise webapplicaties bevorderen door de identificatie en evaluatie van best practices en technologieën, met specifieke aandacht voor de vereisten van ondernemingen?
+  onderzoeksvraag: Hoe kunnen we de efficiënte ontwikkeling van een co-pilot bevorderen door het identificeren van verschillende valkuilen en trainingsmethoden met specifieke aandacht voor de vereisten van de onderneming? 
 }
 
-\section*{Doelstellingen}
+\section{Doelstellingen}
 \begin{enumerate}
   \item Identificeren van de belangrijkste vereisten voor enterprise webapplicaties, met de nadruk op schaalbaarheid, prestaties en beveiliging.
     \begin{itemize}
@@ -88,14 +59,14 @@ De onderzoeksvraag luidt dus: \textbf{
   \item Ontwikkelen van een prototype van een schaalbare enterprise webapplicatie en evalueren van de gemaakte keuzes in de ontwikkeling.
 \end{enumerate}
 
-\section*{Stand van zaken}
+\section{Stand van zaken}
 Over heel de wereld zijn er al veel bedrijven die schaalbare entreprise webapplicaties maken en dit op een sterke maar ook steeds verschillende manier in stand brengen.
 
 HiveCPQ is de nieuwe leider op de belgische markt in het aanbieden van CPQ-oplossingen aan enterprise-fabrikanten. Je hebt de term CPQ ongetwijfeld al zien voorbijkomen, zeker als je in de maakindustrie werkt. Maar wat is CPQ of Configure-Price-Quote software? CPQ-software helpt bedrijven om hun producten en diensten te configureren, te prijzen en te verkopen. Het is een software die de verkoop van complexe producten en diensten automatiseert en versnelt. CPQ-software is een must voor bedrijven die hun verkoopproces willen optimaliseren en hun omzet willen verhogen. 
 
 Daarnaast hebben we dan ook Delaware, een bedrijf dat begon als een onafhankelijk partnerschap en zich nu heeft uitgewerkt tot een wereldwijde aanwezigheid met meer dan 4600 medewerkers. Delaware is een bedrijf dat geavanceerde ICT-oplossingen en -diensten levert en onze klanten begeleidt bij hun zakelijke en digitale transformaties naar de digitale toekomst.
 
-\section*{Methodologie}
+\section{Methodologie}
 \begin{enumerate}
   \item Literatuurstudie: 
   \begin{itemize}
@@ -119,7 +90,7 @@ Daarnaast hebben we dan ook Delaware, een bedrijf dat begon als een onafhankelij
   \end{itemize}
 \end{enumerate}
 
-\section*{Verwachte resultaten}
+\section{Verwachte resultaten}
 \begin{enumerate}
   \item Een overzicht van de belangrijkste vereisten voor schaalbare enterprise webapplicaties.
   \item Identificatie van best practices in de ontwikkeling van schaalbare webapplicaties en hun relevantie voor ondernemingen.
@@ -127,14 +98,9 @@ Daarnaast hebben we dan ook Delaware, een bedrijf dat begon als een onafhankelij
   \item Een werkend prototype van een schaalbare enterprise webapplicatie.
 \end{enumerate}
 
-\end{abstract}
+
 
 \tableofcontents
 
-% De hoofdtekst van het voorstel zit in een apart bestand, zodat het makkelijk
-% kan opgenomen worden in de bijlagen van de bachelorproef zelf.
-\input{voorstel-inhoud}
-
-\printbibliography[heading=bibintoc]
 
 \end{document}
