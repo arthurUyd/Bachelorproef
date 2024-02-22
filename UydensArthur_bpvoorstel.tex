@@ -12,7 +12,7 @@
 \academicyear{2023-2024} 
 
 
-\title{De ontwikkeling van een co-pilot gebaseerd op een MS Dynamics 365 platform}
+\title{De ontwikkeling van een co-pilot gebaseerd op een MS Dynamics 365 platform voor Itineris: een onderzoek naar technologieën en valkuilen. }
 
 \author{Arthur Uydens }
 \email{arthur.uydens@student.hogent.be}
@@ -21,17 +21,18 @@
 \supervisor[Co-promotor]{}
 
 \specialisation{Mobile \& Enterprise development}
-\keywords{co-pilot, MS Dynamics 365, AI , chatbot}
+\keywords{co-pilot, MS Dynamics 365, AI , chatbot, Itineris}
 
 \begin{document}
 
 \section{Samenvatting}
-Dit onderzoeksvoorstel richt zich op het ontwikkelen van een co-pilot op een platform dat gebruik maakt van het MS-Dynamics 365 ERP-pakket.De opdracht is in naam van Itineris waarvan Peter Baeke, R&D Manager Business Unit North America, de rol van co-promotor opneemt en me inhoudelijk zal bijstaan. De co-pilot zou de medewerkers moeten ondersteunen in hun business handelingen en de werkdruk moeten verlagen. Er zal naar zowel het gebruik als naar het correct trainen van de co-pilot gekeken worden om uiteindelijk tot een werkende en efficiënte co-pilot te komen. Er zal onderzocht worden naar de beste manieren waarop de co-pilot gebruikt zal kunnen worden, waar er eventuele valkuilen zitten, hoe de co-pilot getraind kan worden en wat de beste manier is om deze training te voltooien. Met al deze informatie zal er dan een product gemaakt worden om deze opdracht succesvol te voltooien. Met dit eindproduct zullen er verschillende scenario's uitgevoerd worden waarop er dan aan de hand van verschillende criteria beslist wordt of het scenario succesvol is uitgevoerd.
+Dit onderzoeksvoorstel richt zich op het ontwikkelen van een co-pilot op een platform dat gebruik maakt van het MS-Dynamics 365 ERP-pakket. Na een voorstelling van het thema en een kadering van de relevantie van copilots in de business omgeving identificeren we de nood aan copilots en de manier om deze te implementeren binnen de applicaties.
+De onderzoeksvraag richt zich op het identificeren van mogelijke valkuilen die de ontwikkeling van de copilot zou kunnen hinderen en de trainingsmethoden die behandeld zullen worden. De doelstellingen omvatten het identificeren van de belangrijkste vereisten voor de co-pilot, het identificeren van valkuilen die kunnen voorkomen bij de ontwikkeling van de copilot, het trainen van de copilot en een werkend prototype ontwikkelen op basis van het onderzoek. De meerwaarde van dit onderzoek ligt in het bieden van praktische inzichten voor ontwikkelaars en bedrijven die een copilot willen hanteren in hun applicatie. Dit zal de doelgroep betere en snellere hulp bieden bij het ontwikkelen van een copilot. 
 
 \section{Introductie}
-Aritificiële Intelligentie is de wetenschap van de toekomst. Indien je als bedrijf niet op inzet in het jaar 2024 zal je bedrijf een achterstand opwerken op de competitie. Dit onderzoeksvoorstel streeft naar praktische ondersteuning en info te geven over hoe een co-pilot systeem gebruikt kan worden binnen de bestaande applicatie die Itineris aanbied.  
+Aritificiële Intelligentie is de wetenschap van de toekomst. Indien je als bedrijf niet op inzet in het jaar 2024 zal je bedrijf een achterstand opbouwen op de competitie. Dit onderzoeksvoorstel streeft naar praktische ondersteuning en info te geven over hoe een co-pilot systeem gebruikt kan worden binnen de bestaande applicatie die Itineris aanbied.  
 
-De doelgroep van deze bachelorproef zijn bedrijven die webapplicaties voor andere ondernemingen ontwikkelen. Hier zijn vele voorbeelden van zoals Delaware, HiveCPQ, etc... Deze bedrijven hebben vaak te maken met een grote hoeveelheid gebruikers en data. Het is dus belangrijk dat de applicaties die zij ontwikkelen schaalbaar zijn. Dit betekent dat de applicaties in staat moeten zijn om te groeien en zich aan te passen aan de veranderende behoeften van de gebruikers. Daarnaast moeten de applicaties ook goed presteren en veilig zijn.
+De doelgroep van deze bachelorproef zijn bedrijven die applicaties maken die gebaseerd zijn op het MS Dynamics 365 ERP-pakket. 
 
 De onderzoeksvraag luidt dus: \textbf{
   onderzoeksvraag: Hoe kunnen we de efficiënte ontwikkeling van een co-pilot bevorderen door het identificeren van verschillende valkuilen en trainingsmethoden met specifieke aandacht voor de vereisten van de onderneming? 
@@ -39,54 +40,62 @@ De onderzoeksvraag luidt dus: \textbf{
 
 \section{Doelstellingen}
 \begin{enumerate}
-  \item Identificeren van de belangrijkste vereisten voor enterprise webapplicaties, met de nadruk op schaalbaarheid, prestaties en beveiliging.
+  \item Identificeren van de belangrijkste vereisten voor de co-pilot. 
     \begin{itemize}
-      \item Welke vereisten zijn het belangrijkst voor de schaalbaarheid van een enterprise webapplicatie?
-      \item Welke vereisten zijn het belangrijkst voor de prestaties van een enterprise webapplicatie?
-      \item Welke vereisten zijn het belangrijkst voor de beveiliging van een enterprise webapplicatie?
+      \item Wat moet de co-pilot kunnen?
+      \item Wat zijn de criteria om te beslissen of een handeling succesvol is? 
     \end{itemize}
-  \item Onderzoeken van best practices in de ontwikkeling van schaalbare webapplicaties en hun toepasbaarheid in een ondernemingsomgeving.
+  \item Identificeren van de verschillende valkuilen die we kunnen tegenkomen bij het ontwikkelen van de co-pilot.
     \begin{itemize}
-      \item Wat zijn de best practices voor de ontwikkeling van schaalbare webapplicaties?
-      \item Hoe kunnen deze best practices worden toegepast in een ondernemingsomgeving?
-      \item Waarom zijn deze best practices belangrijk voor ondernemingen?
+      \item Wat zijn gekende valkuilen bij het ontwikkelen van een co-pilot?
+      \item Hoe kunnen we deze valkuilen het beste omzeilen?
     \end{itemize}
-  \item Vergelijken van verschillende web development frameworks en technologieën op het gebied van schaalbaarheid, prestaties en onderhoud.
+  \item Trainen van de co-pilot.
     \begin{itemize}
-      \item Wat zijn de meest courante web development frameworks en technologieën?
-      \item Waarom worden deze frameworks en technologieën zo veel gebruikt?
+      \item Hoe train je een co-pilot?
+      \item Waar zit de informatie die de co-pilot moet verwerken? 
+      \item Hoe gaat de co-pilot trainen met deze informatie?
     \end{itemize}
-  \item Ontwikkelen van een prototype van een schaalbare enterprise webapplicatie en evalueren van de gemaakte keuzes in de ontwikkeling.
+  \item Ontwikkelen van een prototype van een co-pilot die voldoet aan de criteria van punt 1.
 \end{enumerate}
 
 \section{Stand van zaken}
-Over heel de wereld zijn er al veel bedrijven die schaalbare entreprise webapplicaties maken en dit op een sterke maar ook steeds verschillende manier in stand brengen.
+Terwijl iedereen nog wende aan het idee van generative AI, wat ~\textcite{GenerativeAI2024} omschrijft als een soort Aritificiële Intelligentie dat een grote verscheidenhijd aan data kan genereren zoals fotos, videos, tekst, etc\dots , is er een nieuwe term opgedoken: AI Copilots.
 
-HiveCPQ is de nieuwe leider op de belgische markt in het aanbieden van CPQ-oplossingen aan enterprise-fabrikanten. Je hebt de term CPQ ongetwijfeld al zien voorbijkomen, zeker als je in de maakindustrie werkt. Maar wat is CPQ of Configure-Price-Quote software? CPQ-software helpt bedrijven om hun producten en diensten te configureren, te prijzen en te verkopen. Het is een software die de verkoop van complexe producten en diensten automatiseert en versnelt. CPQ-software is een must voor bedrijven die hun verkoopproces willen optimaliseren en hun omzet willen verhogen. 
+Een AI co-pilot is in essentie een soort virtuele assistent dat real-time hulp en feedback biedt op handelingen. Het is een "intelligent" programma dat je helpt bij je professionele taken met de nadruk op de mogelijkheid om directe hulp te bieden~\autocite{SorabGhaswalla2023}.
 
-Daarnaast hebben we dan ook Delaware, een bedrijf dat begon als een onafhankelijk partnerschap en zich nu heeft uitgewerkt tot een wereldwijde aanwezigheid met meer dan 4600 medewerkers. Delaware is een bedrijf dat geavanceerde ICT-oplossingen en -diensten levert en onze klanten begeleidt bij hun zakelijke en digitale transformaties naar de digitale toekomst.
+Deze co-pilots zijn in staat van te helpen bij het brainstormen en genereren van ideeën, aanpassen en nakijken van uw werk, onderzoeken en factchecken van concepten waarbij het een bepaald niveau van zekerheid kan verzekeren. 
+
+Enkele veelgebruikte co-pilots vandaag de dag zijn: 
+\begin{enumerate}
+  \item Github copilot:
+    \begin{itemize}
+      \item Een geavanceerde AI assistent die code development voor developers versnelt en de werkdurk verlicht. 
+    \end{itemize}
+  \item Microsoft 365 copilot: 
+    \begin{itemize}
+      \item Een AI assistent die gebruikers helpt bij het uitvoeren van cognitieve taken zoals het schrijven van overtuigende verkooppraatjes en het produceren van presentatiewaardige afbeeldingen. 
+    \end{itemize}
+\end{enumerate}
+
 
 \section{Methodologie}
 \begin{enumerate}
   \item Literatuurstudie: 
   \begin{itemize}
-    \item Onderzoek naar bestaande literatuur en documentatie met betrekking tot de ontwikkeling van schaalbare enterprise webapplicaties.
+    \item Onderzoek naar bestaande literatuur en documentatie met betrekking tot de ontwikkeling van co-pilots.
   \end{itemize}
   \item Casestudy's: 
   \begin{itemize}
-    \item Analyse van bestaande enterprise webapplicaties om inzicht te krijgen in de gehanteerde methodologieën en technologieën.
-  \end{itemize}
-  \item Frameworkvergelijking:
-  \begin{itemize}
-    \item vergelijken van populaire web development frameworks op basis van criteria zoals schaalbaarheid, prestaties en onderhoud.
+    \item Onderzoek voeren naar bestaande copilots om inzicht te krijgen in de gehanteerde methodologieën en technologieën.
   \end{itemize}
   \item Prototype-ontwikkeling: 
   \begin{itemize}
-    \item Ontwikkeling van een prototype van een schaalbare enterprise webapplicatie, gebruikmakend van de geïdentificeerde best practices en technologieën.
+    \item Ontwikkeling van een prototype van een copilot, gebruikmakend van de verzamelde informatie uit de voorafgaande studies.
   \end{itemize}
-  \item Gebruikerstest:
+  \item Analyse:
   \begin{itemize}
-    \item Verzamelen van feedback van gebruikers en ontwikkelaars over de ervaringen met het ontwikkelde prototype.
+    \item Analyseren of de copilot de opdrachten correct uitvoert en voldoet aan de criteria.
   \end{itemize}
 \end{enumerate}
 
@@ -98,6 +107,10 @@ Daarnaast hebben we dan ook Delaware, een bedrijf dat begon als een onafhankelij
   \item Een werkend prototype van een schaalbare enterprise webapplicatie.
 \end{enumerate}
 
+
+\section{Referenties}
+https://generativeai.net/
+https://sorabg.medium.com/who-or-what-is-an-ai-copilot-845175f25ddb
 
 
 \tableofcontents
