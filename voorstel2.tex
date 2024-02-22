@@ -1,0 +1,149 @@
+%==============================================================================
+% Sjabloon onderzoeksvoorstel bachproef
+%==============================================================================
+% Gebaseerd op document class `hogent-article'
+% zie <https://github.com/HoGentTIN/latex-hogent-article>
+
+% Voor een voorstel in het Engels: voeg de documentclass-optie [english] toe.
+% Let op: kan enkel na toestemming van de bachelorproefcoördinator!
+\documentclass{hogent-article}
+
+% Invoegen bibliografiebestand
+\addbibresource{voorstel.bib}
+
+% Informatie over de opleiding, het vak en soort opdracht
+\studyprogramme{Professionele bachelor toegepaste informatica}
+\course{Bachelorproef}
+\assignmenttype{Onderzoeksvoorstel}
+% Voor een voorstel in het Engels, haal de volgende 3 regels uit commentaar
+% \studyprogramme{Bachelor of applied information technology}
+% \course{Bachelor thesis}
+% \assignmenttype{Research proposal}
+
+\academicyear{2023-2024} % TODO: pas het academiejaar aan
+
+% TODO: Werktitel
+\title{De ontwikkeling van een co-pilot van software platform gebaseerd op een MS Dynamics 365 voor Itineris: een onderzoek naar technologieën en valkuilen.}
+
+
+% TODO: Studentnaam en emailadres invullen
+\author{Arthur Uydens}
+\email{arthur.uydens@student.hogent.be}
+
+
+% TODO: Geef de co-promotor op
+\supervisor[Co-promotor]{}
+
+% Binnen welke specialisatierichting uit 3TI situeert dit onderzoek zich?
+% Kies uit deze lijst:
+%
+% - Mobile \& Enterprise development
+% - AI \& Data Engineering
+% - Functional \& Business Analysis
+% - System \& Network Administrator
+% - Mainframe Expert
+% - Als het onderzoek niet past binnen een van deze domeinen specifieer je deze
+%   zelf
+%
+\specialisation{Mobile \& Enterprise development}
+\keywords{co-pilot, MS Dynamics 365, AI , chatbot, Itineris, D365}
+
+\begin{document}
+    
+    \section{Samenvatting}
+    Dit onderzoeksvoorstel richt zich op het ontwikkelen van een co-pilot op een platform dat gebaseerd is op het MS-Dynamics 365 ERP-pakket. Na een voorstelling van het thema en een kadering van de relevantie van copilots in de business omgeving identificeren we de nood aan copilots en de manier om deze te implementeren binnen de applicaties.
+    De onderzoeksvraag richt zich op het identificeren van mogelijke valkuilen die de ontwikkeling van de copilot zou kunnen hinderen en de trainingsmethoden die behandeld zullen worden. De doelstellingen omvatten het identificeren van de belangrijkste vereisten voor de co-pilot, het identificeren van valkuilen die kunnen voorkomen bij de ontwikkeling van de copilot, het trainen van de copilot en een werkend prototype ontwikkelen op basis van het onderzoek. De meerwaarde van dit onderzoek ligt in het bieden van praktische inzichten voor ontwikkelaars en bedrijven die een copilot willen hanteren in hun applicatie. Dit zal de doelgroep betere en snellere hulp bieden bij het ontwikkelen van een copilot. 
+    
+    \section{Introductie}
+    Aritificiële Intelligentie is de wetenschap van de toekomst. Indien je als bedrijf niet op inzet in het jaar 2024 zal je bedrijf een achterstand opbouwen op de competitie. Dit onderzoeksvoorstel streeft naar praktische ondersteuning en info te geven over hoe een co-pilot systeem gebruikt kan worden binnen de bestaande applicatie die Itineris aanbied.  
+    
+    De doelgroep van deze bachelorproef zijn bedrijven die applicaties maken die gebaseerd zijn op het MS Dynamics 365 ERP-pakket. 
+    
+    De onderzoeksvraag luidt dus: \textbf{
+        Hoe kunnen we de efficiënte ontwikkeling van een co-pilot bevorderen door het identificeren van verschillende valkuilen en trainingsmethoden met specifieke aandacht voor de vereisten van de onderneming? 
+    }
+    
+    \section{Doelstellingen}
+    \begin{enumerate}
+        \item Identificeren van de belangrijkste vereisten voor de co-pilot. 
+        \begin{itemize}
+            \item Wat moet de co-pilot kunnen?
+            \item Wat zijn de criteria om te beslissen of een handeling succesvol is? 
+        \end{itemize}
+        \item Identificeren van de verschillende valkuilen die we kunnen tegenkomen bij het ontwikkelen van de co-pilot.
+        \begin{itemize}
+            \item Wat zijn gekende valkuilen bij het ontwikkelen van een co-pilot?
+            \item Hoe kunnen we deze valkuilen het beste omzeilen?
+        \end{itemize}
+        \item Trainen van de co-pilot.
+        \begin{itemize}
+            \item Hoe train je een co-pilot?
+            \item Waar zit de informatie die de co-pilot moet verwerken? 
+            \item Hoe gaat de co-pilot trainen met deze informatie?
+        \end{itemize}
+        \item Ontwikkelen van een prototype van een co-pilot die voldoet aan de criteria van punt 1.
+    \end{enumerate}
+    
+    \section{Stand van zaken}
+    Terwijl iedereen nog wende aan het idee van generative AI, wat men omschrijft als een soort Aritificiële Intelligentie dat een grote verscheidenhijd aan data kan genereren zoals fotos, videos, tekst, etc\dots ~\autocite{GenerativeAI2024} , is er een nieuwe term opgedoken: AI Copilots.
+    
+    Een AI co-pilot is in essentie een soort virtuele assistent dat real-time hulp en feedback biedt op handelingen. Het is een "intelligent" programma dat je helpt bij je professionele taken met de nadruk op de mogelijkheid om directe hulp te bieden~\autocite{SorabGhaswalla2023}.
+    
+    Deze co-pilots zijn in staat van te helpen bij het brainstormen en genereren van ideeën, aanpassen en nakijken van uw werk, onderzoeken en factchecken van concepten waarbij het een bepaald niveau van zekerheid kan verzekeren. 
+    
+    Enkele veelgebruikte co-pilots vandaag de dag zijn: 
+    \begin{enumerate}
+        \item Github copilot:
+        \begin{itemize}
+            \item Een geavanceerde AI assistent die code development voor developers versnelt en de werkdurk verlicht. 
+        \end{itemize}
+        \item Microsoft 365 copilot: 
+        \begin{itemize}
+            \item Een AI assistent die gebruikers helpt bij het uitvoeren van cognitieve taken zoals het schrijven van overtuigende verkooppraatjes en het produceren van presentatiewaardige afbeeldingen. 
+        \end{itemize}
+    \end{enumerate}
+    
+    
+    \section{Methodologie}
+    \begin{enumerate}
+        \item Literatuurstudie: 
+        \begin{itemize}
+            \item Onderzoek naar bestaande literatuur en documentatie met betrekking tot de ontwikkeling van co-pilots.
+        \end{itemize}
+        \item Casestudy's: 
+        \begin{itemize}
+            \item Onderzoek voeren naar bestaande copilots om inzicht te krijgen in de gehanteerde methodologieën en technologieën.
+            \item Onderzoek voeren naar de valkuilen die vaak voorkomen bij bestaande co-pilots. 
+        \end{itemize}
+        \item Prototype-ontwikkeling: 
+        \begin{itemize}
+            \item Ontwikkeling van een prototype van een copilot, gebruikmakend van de verzamelde informatie uit de voorafgaande studies.
+        \end{itemize}
+        \item Analyse:
+        \begin{itemize}
+            \item Analyseren of de copilot de opdrachten correct uitvoert en voldoet aan de criteria.
+        \end{itemize}
+    \end{enumerate}
+    
+    \section{Verwachte resultaten}
+    \begin{enumerate}
+        \item Een overzicht van de belangrijkste vereisten voor schaalbare enterprise webapplicaties.
+        \item Identificatie van best practices in de ontwikkeling van schaalbare webapplicaties en hun relevantie voor ondernemingen.
+        \item Een vergelijkende analyse van web development frameworks en technologieën op het gebied van schaalbaarheid en prestaties.
+        \item Een werkend prototype van een schaalbare enterprise webapplicatie.
+    \end{enumerate}
+    
+    
+    \section{Referenties}
+    
+    \begin{itemize}
+        \item   https://generativeai.net/
+        \item  https://sorabg.medium.com/who-or-what-is-an-ai-copilot-845175f25ddb
+    \end{itemize}
+  
+    
+    
+    \tableofcontents
+    
+    
+\end{document}
