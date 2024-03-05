@@ -1,0 +1,54 @@
+@Online{Arthur,
+  author       = {Arnx Arthur},
+  date         = {2019-01-13},
+  title        = {First neural network for beginners explained (with code)},
+  url          = {https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf},
+  urldate      = {2024-02-28},
+  journaltitle = {Medium},
+  keywords     = {neural network},
+}
+
+@Online{divbyte,
+  author   = {divbyte},
+  editor   = {divbyte},
+  title    = {The Importance of Artificial Intelligence in Web Development},
+  url      = {https://divbyte.com/importance-artificial-intelligence-web-development/},
+  urldate  = {2024-02-28},
+  keywords = {importance , use, web development},
+}
+
+@Online{IBM,
+  author   = {IBM},
+  title    = {What is machine learning},
+  url      = {https://www.ibm.com/topics/machine-learning},
+  urldate  = {2024-02-28},
+  keywords = {machine learning, ibm, neural network, deep learning},
+}
+
+@Online{IBMa,
+  author   = {IBM},
+  title    = {What is natural language processing (NLP)?},
+  url      = {https://www.ibm.com/topics/natural-language-processing},
+  urldate  = {2024-02-28},
+  keywords = {NLP, natural language processing, language, text, speech},
+}
+
+@Online{Margo2023,
+  author   = {Poda Margo},
+  date     = {2023-07-06},
+  title    = {what is an AI copilot?},
+  url      = {https://www.moveworks.com/us/en/resources/blog/what-is-an-ai-copilot#what-is-an-ai-copilot},
+  urldate  = {2024-02-28},
+  keywords = {copilot,},
+}
+
+@Online{Margo2023a,
+  author   = {Poda Margo},
+  date     = {2023-02-09},
+  title    = {Large language models: The basics and their applications},
+  url      = {https://www.moveworks.com/us/en/resources/blog/large-language-models-strengths-and-weaknesses#what-are-large-language-models},
+  urldate  = {2024-02-28},
+  keywords = {Large language models, LLM, language , text},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
