@@ -167,4 +167,13 @@
   keywords = {large, language, model, LLM},
 }
 
+@Online{Hutchison2021,
+  author   = {Graeme Hutchison},
+  date     = {2021-06-28},
+  title    = {Four Types of Machine Learning Algorithms Explained},
+  url      = {https://www.seldon.io/four-types-of-machine-learning-algorithms-explained},
+  urldate  = {2024-03-21},
+  keywords = {machine learning, ML, algoritme, algoritmes},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
