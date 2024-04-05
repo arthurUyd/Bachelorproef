@@ -1,0 +1,27 @@
+Azure AI search 
+Azure AI-zoeken wordt vaak gebruikt bij het zoeken in catalogussen of documenten, gegevensverkenning, apps in chatstijl of apps die tekst en vectoren weergeven. Het wordt gebruikt voor het ophalen van informatie op grote schaal van traditionele en generatieve ai-zoekapplicaties. In de client side app wordt de zoek-ervaring gedefinieerd door APIs van Azure AI Search. Architecturaal gezien zit de Azure AI Search tussen je app en je content.
+ 
+Binnen de search-service zelf zijn de 2 primaire verwerkingen indexen en queryen. Het indexen zorgt ervoor dat je kan zoeken in je data, het stelt de data zodanig op een manier op dat de machine kan zoeken aan de hand van een inhoudstabel in plaats van elke pagina te moeten doorzoeken.  Azure AI Search kan enkel JSON bestanden indexeren. Queryen gaat dan voornamelijk over de manier waarop je gaat zoeken. Dit zijn commando’s (of query’s) die je app stuurt om bepaalde informatie op te halen. 
+Azure App Service 
+Azure App Service wordt gebruikt om web applicaties, REST APIs en mobiele back ends op te hosten. Het laat toe van de functionaliteiten van Microsoft Azure toe te voegen aan je applicatie. 
+Azure OpenAI Service
+Azure OpenAI Service geeft REST API toegang tot de krachtige taal modellen zoals GPT-4 ,GPT-3.5-Turbo, etc… . Deze modellen worden ook gebruikt voor specifieke taken uit te voeren dus je bent niet gelimiteerd tot content generation, opsommingen of de standaard functionaliteiten van deze talen. 
+Semantic Kernel
+Semantic Kernel wordt gebruikt om bestaande code te combineren met Ai modellen om vragen te beantwoorden en processen te automatiseren. Het helpt developers van hun eigen copilot functionaliteiten toe te voegen bovenop bestaande AI plugins. 
+
+
+https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search
+
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook-trigger?tabs=python-v2%2Cisolated-process%2Cnodejs-v4%2Cfunctionsv2&pivots=programming-language-python
+
+https://learn.microsoft.com/en-us/azure/app-service/overview
+
+https://learn.microsoft.com/en-us/azure/ai-services/openai/overview
+
+https://learn.microsoft.com/en-us/semantic-kernel/
+
+https://learn.microsoft.com/en-us/semantic-kernel/overview/
+
+https://learn.microsoft.com/en-us/semantic-kernel/agents/planners/evaluate-and-deploy-planners/
+
+https://learn.microsoft.com/en-us/semantic-kernel/agents/planners/evaluate-and-deploy-planners/create-a-prompt-flow-with-semantic-kernel
