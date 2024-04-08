@@ -176,4 +176,61 @@
   keywords = {machine learning, ML, algoritme, algoritmes},
 }
 
+@Online{Oracle,
+  author   = {Oracle},
+  title    = {Qu'est-ce que le deep learning ?},
+  url      = {https://www.oracle.com/ch-fr/artificial-intelligence/machine-learning/what-is-deep-learning/#:~:text=le deep learning ?-,Deep learning, définition,de grandes quantités de données.},
+  urldate  = {2024-03-22},
+  keywords = {deep, learning, oracle},
+}
+
+@Online{IBMb,
+  author   = {IBM},
+  title    = {What is a neural network?},
+  url      = {https://www.ibm.com/topics/neural-networks},
+  keywords = {neural, network, IBM, deep},
+}
+
+@Online{Nemeon,
+  author   = {Nemeon},
+  title    = {Transformers: natuurlijke taalverwerking revolutioneren},
+  url      = {https://nemeon.io/nl/2023/12/11/transformers-revolutionizing-natural-language-processing/},
+  urldate  = {2024-03-22},
+  keywords = {transformers, taalverwerking, zelfaandachtsmechanisme, encoder, decoder},
+}
+
+@Online{Engage,
+  author   = {Spotler Engage},
+  title    = {De Spotler Engage Chatbot Checklist},
+  url      = {https://spotlerengage.com/nl/whitepapers/chatbot-checklist/},
+  urldate  = {2024-03-26},
+  keywords = {chatbot, checklist},
+}
+
+@Online{oracle,
+  author   = {oracle},
+  title    = {what is a chatbot?},
+  url      = {https://www.oracle.com/be/chatbots/what-is-a-chatbot/},
+  urldate  = {2024-03-26},
+  keywords = {chatbot, what, is},
+}
+
+@Online{Microsoft2023,
+  author   = {Microsoft 365},
+  date     = {2023-10-26},
+  title    = {Microsoft 365 Chat: Your Personal Assistant at Work},
+  url      = {https://www.youtube.com/watch?v=214i-FNKZ_s},
+  urldate  = {2024-03-26},
+  keywords = {microsoft, 365, chat, video, youtube},
+}
+
+@Online{Microsoft2024a,
+  author   = {Microsoft},
+  date     = {2024-02-12},
+  title    = {Get started with Microsoft Copilot with Graph-grounded chat},
+  url      = {https://support.microsoft.com/en-gb/topic/get-started-with-microsoft-copilot-with-graph-grounded-chat-5b00a52d-7296-48ee-b938-b95b7209f737#:~:text=Microsoft Copilot with Graph-grounded chat (previously named Microsoft 365,skills in a chat experience.},
+  urldate  = {2024-03-26},
+  keywords = {microsoft, copilot, graph-grounded, chat, chatbot},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
