@@ -1,0 +1,1223 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Cantina2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=486120af0245dc18df99c966663c99e9}{%
+           family={Cantina},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelima Developers},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{486120af0245dc18df99c966663c99e9}
+      \strng{fullhash}{486120af0245dc18df99c966663c99e9}
+      \strng{fullhashraw}{486120af0245dc18df99c966663c99e9}
+      \strng{bibnamehash}{486120af0245dc18df99c966663c99e9}
+      \strng{authorbibnamehash}{486120af0245dc18df99c966663c99e9}
+      \strng{authornamehash}{486120af0245dc18df99c966663c99e9}
+      \strng{authorfullhash}{486120af0245dc18df99c966663c99e9}
+      \strng{authorfullhashraw}{486120af0245dc18df99c966663c99e9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{1}
+      \field{title}{Build a custom Copilot experience with your private data using and Kernel Memory}
+      \field{urlday}{10}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.developerscantina.com/p/kernel-memory/
+      \endverb
+      \verb{url}
+      \verb https://www.developerscantina.com/p/kernel-memory/
+      \endverb
+      \keyw{build,kernel memory,memory,copilot}
+    \endentry
+    \entry{Heidloff2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d46bf057ceb74b1266c186e54b06ab9e}{%
+           family={Heidloff},
+           familyi={H\bibinitperiod},
+           given={Niklas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{fullhash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{fullhashraw}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{bibnamehash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{authorbibnamehash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{authornamehash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{authorfullhash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{authorfullhashraw}{d46bf057ceb74b1266c186e54b06ab9e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{2}
+      \field{title}{Foundation Models, Transformers, BERT and GPT}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://heidloff.net/article/foundation-models-transformers-bert-and-gpt/
+      \endverb
+      \verb{url}
+      \verb https://heidloff.net/article/foundation-models-transformers-bert-and-gpt/
+      \endverb
+      \keyw{foundation models,bert,gpt,transformers,encoder,decoderS}
+    \endentry
+    \entry{IBMc}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is AI?}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/artificial-intelligence
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/artificial-intelligence
+      \endverb
+      \keyw{ai,artificial intelligence,what}
+    \endentry
+    \entry{IBMa}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is natural language processing (NLP)?}
+      \field{urlday}{28}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/natural-language-processing
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/natural-language-processing
+      \endverb
+      \keyw{NLP,natural language processing,language,text,speech}
+    \endentry
+    \entry{Nemeon}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1086355bd1239a9f5a053551365fee80}{%
+           family={Nemeon},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1086355bd1239a9f5a053551365fee80}
+      \strng{fullhash}{1086355bd1239a9f5a053551365fee80}
+      \strng{fullhashraw}{1086355bd1239a9f5a053551365fee80}
+      \strng{bibnamehash}{1086355bd1239a9f5a053551365fee80}
+      \strng{authorbibnamehash}{1086355bd1239a9f5a053551365fee80}
+      \strng{authornamehash}{1086355bd1239a9f5a053551365fee80}
+      \strng{authorfullhash}{1086355bd1239a9f5a053551365fee80}
+      \strng{authorfullhashraw}{1086355bd1239a9f5a053551365fee80}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transformers: natuurlijke taalverwerking revolutioneren}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nemeon.io/nl/2023/12/11/transformers-revolutionizing-natural-language-processing/
+      \endverb
+      \verb{url}
+      \verb https://nemeon.io/nl/2023/12/11/transformers-revolutionizing-natural-language-processing/
+      \endverb
+      \keyw{transformers,taalverwerking,zelfaandachtsmechanisme,encoder,decoder}
+    \endentry
+    \entry{Europe}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7611be641e71684d386ff5ec93c59790}{%
+           family={Europe},
+           familyi={E\bibinitperiod},
+           given={Council},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{7611be641e71684d386ff5ec93c59790}
+      \strng{fullhash}{7611be641e71684d386ff5ec93c59790}
+      \strng{fullhashraw}{7611be641e71684d386ff5ec93c59790}
+      \strng{bibnamehash}{7611be641e71684d386ff5ec93c59790}
+      \strng{authorbibnamehash}{7611be641e71684d386ff5ec93c59790}
+      \strng{authornamehash}{7611be641e71684d386ff5ec93c59790}
+      \strng{authorfullhash}{7611be641e71684d386ff5ec93c59790}
+      \strng{authorfullhashraw}{7611be641e71684d386ff5ec93c59790}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{History of artificial intelligence}
+      \field{urlday}{21}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.coe.int/en/web/artificial-intelligence/history-of-ai#:~:text=1940-1960: Birth of AI,of machines and organic beings.
+      \endverb
+      \verb{url}
+      \verb https://www.coe.int/en/web/artificial-intelligence/history-of-ai#:~:text=1940-1960:%20Birth%20of%20AI,of%20machines%20and%20organic%20beings.
+      \endverb
+      \keyw{history,artificial intelligence,AI,Europe}
+    \endentry
+    \entry{oracle}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a189c633d9995e11bf8607170ec9a4b8}{%
+           family={oracle},
+           familyi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{fullhash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{fullhashraw}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{bibnamehash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{authorbibnamehash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{authornamehash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{authorfullhash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{authorfullhashraw}{a189c633d9995e11bf8607170ec9a4b8}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{what is a chatbot?}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.oracle.com/be/chatbots/what-is-a-chatbot/
+      \endverb
+      \verb{url}
+      \verb https://www.oracle.com/be/chatbots/what-is-a-chatbot/
+      \endverb
+      \keyw{chatbot,what,is}
+    \endentry
+    \entry{Patel2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e8ae2576cdd480c962c2514e5cb383d}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Snigdha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{fullhash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{fullhashraw}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{bibnamehash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{authorbibnamehash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{authornamehash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{authorfullhash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{authorfullhashraw}{1e8ae2576cdd480c962c2514e5cb383d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{month}{3}
+      \field{title}{5 Different Types of Chatbots for Business Growth}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.revechat.com/blog/types-of-chatbot/
+      \endverb
+      \verb{url}
+      \verb https://www.revechat.com/blog/types-of-chatbot/
+      \endverb
+      \keyw{chatbots,types,different,business}
+    \endentry
+    \entry{Salim}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9885e4126c913d3a806352371c3d0386}{%
+           family={Salim},
+           familyi={S\bibinitperiod},
+           given={Ashik},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9885e4126c913d3a806352371c3d0386}
+      \strng{fullhash}{9885e4126c913d3a806352371c3d0386}
+      \strng{fullhashraw}{9885e4126c913d3a806352371c3d0386}
+      \strng{bibnamehash}{9885e4126c913d3a806352371c3d0386}
+      \strng{authorbibnamehash}{9885e4126c913d3a806352371c3d0386}
+      \strng{authornamehash}{9885e4126c913d3a806352371c3d0386}
+      \strng{authorfullhash}{9885e4126c913d3a806352371c3d0386}
+      \strng{authorfullhashraw}{9885e4126c913d3a806352371c3d0386}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding semantic kernel}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://valoremreply.com/post/understanding-semantic-kernel/#:~:text=Gen AI applications.-,Semantic Kernel (SK) is an AI Software Development Kit (,subsequent announcements at BUILD 2023.
+      \endverb
+      \verb{url}
+      \verb https://valoremreply.com/post/understanding-semantic-kernel/#:~:text=Gen%20AI%20applications.-,Semantic%20Kernel%20(SK)%20is%20an%20AI%20Software%20Development%20Kit%20(,subsequent%20announcements%20at%20BUILD%202023.
+      \endverb
+      \keyw{semantic kernel,understanding}
+    \endentry
+    \entry{Schulze2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=43e8ad0a08c0ac84bf809cacb765abfe}{%
+           family={Schulze},
+           familyi={S\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{fullhash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{fullhashraw}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{bibnamehash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{authorbibnamehash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{authornamehash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{authorfullhash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{authorfullhashraw}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{month}{3}
+      \field{title}{What Is GPT? GPT-3, GPT-4, and More Explained}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.coursera.org/articles/what-is-gpt
+      \endverb
+      \verb{url}
+      \verb https://www.coursera.org/articles/what-is-gpt
+      \endverb
+      \keyw{GPT}
+    \endentry
+    \entry{STATBEL2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0af802e027c83eac8d8c0c2ab27b76aa}{%
+           family={STATBEL},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{fullhash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{fullhashraw}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{bibnamehash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{authorbibnamehash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{authornamehash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{authorfullhash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{authorfullhashraw}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{7}
+      \field{month}{12}
+      \field{title}{Bijna een op de twee grote bedrijven gebruikt artificiële intelligentie}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://statbel.fgov.be/nl/nieuws/bijna-een-op-de-twee-grote-bedrijven-gebruikt-artificiele-intelligentie
+      \endverb
+      \verb{url}
+      \verb https://statbel.fgov.be/nl/nieuws/bijna-een-op-de-twee-grote-bedrijven-gebruikt-artificiele-intelligentie
+      \endverb
+      \keyw{bedrijven,gebruikt}
+    \endentry
+    \entry{Suresh2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=587104f92b26128c5513d23aa4a8305a}{%
+           family={Suresh},
+           familyi={S\bibinitperiod},
+           given={Sathya\bibnamedelima Krishnan},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{fullhash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{fullhashraw}{587104f92b26128c5513d23aa4a8305a}
+      \strng{bibnamehash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{authorbibnamehash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{authornamehash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{authorfullhash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{authorfullhashraw}{587104f92b26128c5513d23aa4a8305a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{10}
+      \field{title}{Understanding Transformers — Encoder}
+      \field{urlday}{6}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@mr.sk12112002/understanding-transformers-encoder-1f269b1cc943#:~:text=Transformer Architecture:&text=The encoder takes in the,, etc-encoded in them.
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@mr.sk12112002/understanding-transformers-encoder-1f269b1cc943#:~:text=Transformer%20Architecture:&text=The%20encoder%20takes%20in%20the,,%20etc-encoded%20in%20them.
+      \endverb
+      \keyw{encoder,transformer}
+    \endentry
+    \entry{Team2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=08fd4ed963c8aa9f4aa9d40ff42d6e8e}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={Chatbot},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{fullhash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{fullhashraw}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{bibnamehash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{authorbibnamehash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{authornamehash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{authorfullhash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{authorfullhashraw}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{10}
+      \field{title}{Hybrid Chatbot: Everything You Need To Know (2023 Complete Guide)}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.linkedin.com/pulse/hybrid-chatbot-everything-you-need-know-2023-complete-guide
+      \endverb
+      \verb{url}
+      \verb https://www.linkedin.com/pulse/hybrid-chatbot-everything-you-need-know-2023-complete-guide
+      \endverb
+      \keyw{hybrid chatbot,hybrid,guide}
+    \endentry
+    \entry{Woo}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bba2451305c17b07cf18f7ba132e7b1d}{%
+           family={Woo},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima James},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=adf505e82e7c3b09e9e0df6c5c1ca1dd}{%
+           family={Susanto},
+           familyi={S\bibinitperiod},
+           given={Hengky},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7405ddd05d82415227c6c3e2647674f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yanzhi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f9ecfdc28017d8bdfa94b9883a3090e4}
+      \strng{fullhash}{07c3e14bd0a3e0abfc743d614109003d}
+      \strng{fullhashraw}{07c3e14bd0a3e0abfc743d614109003d}
+      \strng{bibnamehash}{07c3e14bd0a3e0abfc743d614109003d}
+      \strng{authorbibnamehash}{07c3e14bd0a3e0abfc743d614109003d}
+      \strng{authornamehash}{f9ecfdc28017d8bdfa94b9883a3090e4}
+      \strng{authorfullhash}{07c3e14bd0a3e0abfc743d614109003d}
+      \strng{authorfullhashraw}{07c3e14bd0a3e0abfc743d614109003d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Natural Language Generation in Student Writing: Language Features, Strategies andLinks to Successful Writing}
+    \endentry
+    \entry{LvxiaoweiXu2023}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d849831bac6adfefd649efe3a9b34a7d}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Lvxiaowei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Department of Computer Science}%
+        {Technology, Zhejiang University}%
+      }
+      \strng{namehash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{fullhash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{fullhashraw}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{bibnamehash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{authorbibnamehash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{authornamehash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{authorfullhash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{authorfullhashraw}{d849831bac6adfefd649efe3a9b34a7d}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{month}{6}
+      \field{title}{Enhancing Language Representation with Constructional Information forNatural Language Understanding}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \keyw{NLU}
+    \endentry
+    \entry{Yang2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2b264f6e8031e9414ddb65a73b1e33b2}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Angelina},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3aed0d87cf3948ce22185818f18c5e1f}{%
+           family={Halim},
+           familyi={H\bibinitperiod},
+           given={Sadaf},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{fullhash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{fullhashraw}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{bibnamehash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{authorbibnamehash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{authornamehash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{authorfullhash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{authorfullhashraw}{e1f3d491df96b6c26cee471ad741fb0e}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Student Research}
+      \field{title}{Natural Language Generation Using Machine LearningTechniques}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{Cantina2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=486120af0245dc18df99c966663c99e9}{%
+           family={Cantina},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelima Developers},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{486120af0245dc18df99c966663c99e9}
+      \strng{fullhash}{486120af0245dc18df99c966663c99e9}
+      \strng{fullhashraw}{486120af0245dc18df99c966663c99e9}
+      \strng{bibnamehash}{486120af0245dc18df99c966663c99e9}
+      \strng{authorbibnamehash}{486120af0245dc18df99c966663c99e9}
+      \strng{authornamehash}{486120af0245dc18df99c966663c99e9}
+      \strng{authorfullhash}{486120af0245dc18df99c966663c99e9}
+      \strng{authorfullhashraw}{486120af0245dc18df99c966663c99e9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{1}
+      \field{title}{Build a custom Copilot experience with your private data using and Kernel Memory}
+      \field{urlday}{10}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.developerscantina.com/p/kernel-memory/
+      \endverb
+      \verb{url}
+      \verb https://www.developerscantina.com/p/kernel-memory/
+      \endverb
+      \keyw{build,kernel memory,memory,copilot}
+    \endentry
+    \entry{Heidloff2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d46bf057ceb74b1266c186e54b06ab9e}{%
+           family={Heidloff},
+           familyi={H\bibinitperiod},
+           given={Niklas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{fullhash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{fullhashraw}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{bibnamehash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{authorbibnamehash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{authornamehash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{authorfullhash}{d46bf057ceb74b1266c186e54b06ab9e}
+      \strng{authorfullhashraw}{d46bf057ceb74b1266c186e54b06ab9e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{2}
+      \field{title}{Foundation Models, Transformers, BERT and GPT}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://heidloff.net/article/foundation-models-transformers-bert-and-gpt/
+      \endverb
+      \verb{url}
+      \verb https://heidloff.net/article/foundation-models-transformers-bert-and-gpt/
+      \endverb
+      \keyw{foundation models,bert,gpt,transformers,encoder,decoderS}
+    \endentry
+    \entry{IBMc}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is AI?}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/artificial-intelligence
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/artificial-intelligence
+      \endverb
+      \keyw{ai,artificial intelligence,what}
+    \endentry
+    \entry{IBMa}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is natural language processing (NLP)?}
+      \field{urlday}{28}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/natural-language-processing
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/natural-language-processing
+      \endverb
+      \keyw{NLP,natural language processing,language,text,speech}
+    \endentry
+    \entry{Nemeon}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1086355bd1239a9f5a053551365fee80}{%
+           family={Nemeon},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1086355bd1239a9f5a053551365fee80}
+      \strng{fullhash}{1086355bd1239a9f5a053551365fee80}
+      \strng{fullhashraw}{1086355bd1239a9f5a053551365fee80}
+      \strng{bibnamehash}{1086355bd1239a9f5a053551365fee80}
+      \strng{authorbibnamehash}{1086355bd1239a9f5a053551365fee80}
+      \strng{authornamehash}{1086355bd1239a9f5a053551365fee80}
+      \strng{authorfullhash}{1086355bd1239a9f5a053551365fee80}
+      \strng{authorfullhashraw}{1086355bd1239a9f5a053551365fee80}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transformers: natuurlijke taalverwerking revolutioneren}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nemeon.io/nl/2023/12/11/transformers-revolutionizing-natural-language-processing/
+      \endverb
+      \verb{url}
+      \verb https://nemeon.io/nl/2023/12/11/transformers-revolutionizing-natural-language-processing/
+      \endverb
+      \keyw{transformers,taalverwerking,zelfaandachtsmechanisme,encoder,decoder}
+    \endentry
+    \entry{Europe}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7611be641e71684d386ff5ec93c59790}{%
+           family={Europe},
+           familyi={E\bibinitperiod},
+           given={Council},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{7611be641e71684d386ff5ec93c59790}
+      \strng{fullhash}{7611be641e71684d386ff5ec93c59790}
+      \strng{fullhashraw}{7611be641e71684d386ff5ec93c59790}
+      \strng{bibnamehash}{7611be641e71684d386ff5ec93c59790}
+      \strng{authorbibnamehash}{7611be641e71684d386ff5ec93c59790}
+      \strng{authornamehash}{7611be641e71684d386ff5ec93c59790}
+      \strng{authorfullhash}{7611be641e71684d386ff5ec93c59790}
+      \strng{authorfullhashraw}{7611be641e71684d386ff5ec93c59790}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{History of artificial intelligence}
+      \field{urlday}{21}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.coe.int/en/web/artificial-intelligence/history-of-ai#:~:text=1940-1960: Birth of AI,of machines and organic beings.
+      \endverb
+      \verb{url}
+      \verb https://www.coe.int/en/web/artificial-intelligence/history-of-ai#:~:text=1940-1960:%20Birth%20of%20AI,of%20machines%20and%20organic%20beings.
+      \endverb
+      \keyw{history,artificial intelligence,AI,Europe}
+    \endentry
+    \entry{oracle}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a189c633d9995e11bf8607170ec9a4b8}{%
+           family={oracle},
+           familyi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{fullhash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{fullhashraw}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{bibnamehash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{authorbibnamehash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{authornamehash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{authorfullhash}{a189c633d9995e11bf8607170ec9a4b8}
+      \strng{authorfullhashraw}{a189c633d9995e11bf8607170ec9a4b8}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{what is a chatbot?}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.oracle.com/be/chatbots/what-is-a-chatbot/
+      \endverb
+      \verb{url}
+      \verb https://www.oracle.com/be/chatbots/what-is-a-chatbot/
+      \endverb
+      \keyw{chatbot,what,is}
+    \endentry
+    \entry{Patel2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e8ae2576cdd480c962c2514e5cb383d}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Snigdha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{fullhash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{fullhashraw}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{bibnamehash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{authorbibnamehash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{authornamehash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{authorfullhash}{1e8ae2576cdd480c962c2514e5cb383d}
+      \strng{authorfullhashraw}{1e8ae2576cdd480c962c2514e5cb383d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{month}{3}
+      \field{title}{5 Different Types of Chatbots for Business Growth}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.revechat.com/blog/types-of-chatbot/
+      \endverb
+      \verb{url}
+      \verb https://www.revechat.com/blog/types-of-chatbot/
+      \endverb
+      \keyw{chatbots,types,different,business}
+    \endentry
+    \entry{Salim}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9885e4126c913d3a806352371c3d0386}{%
+           family={Salim},
+           familyi={S\bibinitperiod},
+           given={Ashik},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9885e4126c913d3a806352371c3d0386}
+      \strng{fullhash}{9885e4126c913d3a806352371c3d0386}
+      \strng{fullhashraw}{9885e4126c913d3a806352371c3d0386}
+      \strng{bibnamehash}{9885e4126c913d3a806352371c3d0386}
+      \strng{authorbibnamehash}{9885e4126c913d3a806352371c3d0386}
+      \strng{authornamehash}{9885e4126c913d3a806352371c3d0386}
+      \strng{authorfullhash}{9885e4126c913d3a806352371c3d0386}
+      \strng{authorfullhashraw}{9885e4126c913d3a806352371c3d0386}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding semantic kernel}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://valoremreply.com/post/understanding-semantic-kernel/#:~:text=Gen AI applications.-,Semantic Kernel (SK) is an AI Software Development Kit (,subsequent announcements at BUILD 2023.
+      \endverb
+      \verb{url}
+      \verb https://valoremreply.com/post/understanding-semantic-kernel/#:~:text=Gen%20AI%20applications.-,Semantic%20Kernel%20(SK)%20is%20an%20AI%20Software%20Development%20Kit%20(,subsequent%20announcements%20at%20BUILD%202023.
+      \endverb
+      \keyw{semantic kernel,understanding}
+    \endentry
+    \entry{Schulze2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=43e8ad0a08c0ac84bf809cacb765abfe}{%
+           family={Schulze},
+           familyi={S\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{fullhash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{fullhashraw}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{bibnamehash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{authorbibnamehash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{authornamehash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{authorfullhash}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \strng{authorfullhashraw}{43e8ad0a08c0ac84bf809cacb765abfe}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{month}{3}
+      \field{title}{What Is GPT? GPT-3, GPT-4, and More Explained}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.coursera.org/articles/what-is-gpt
+      \endverb
+      \verb{url}
+      \verb https://www.coursera.org/articles/what-is-gpt
+      \endverb
+      \keyw{GPT}
+    \endentry
+    \entry{STATBEL2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0af802e027c83eac8d8c0c2ab27b76aa}{%
+           family={STATBEL},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{fullhash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{fullhashraw}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{bibnamehash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{authorbibnamehash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{authornamehash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{authorfullhash}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \strng{authorfullhashraw}{0af802e027c83eac8d8c0c2ab27b76aa}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{7}
+      \field{month}{12}
+      \field{title}{Bijna een op de twee grote bedrijven gebruikt artificiële intelligentie}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://statbel.fgov.be/nl/nieuws/bijna-een-op-de-twee-grote-bedrijven-gebruikt-artificiele-intelligentie
+      \endverb
+      \verb{url}
+      \verb https://statbel.fgov.be/nl/nieuws/bijna-een-op-de-twee-grote-bedrijven-gebruikt-artificiele-intelligentie
+      \endverb
+      \keyw{bedrijven,gebruikt}
+    \endentry
+    \entry{Suresh2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=587104f92b26128c5513d23aa4a8305a}{%
+           family={Suresh},
+           familyi={S\bibinitperiod},
+           given={Sathya\bibnamedelima Krishnan},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{fullhash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{fullhashraw}{587104f92b26128c5513d23aa4a8305a}
+      \strng{bibnamehash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{authorbibnamehash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{authornamehash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{authorfullhash}{587104f92b26128c5513d23aa4a8305a}
+      \strng{authorfullhashraw}{587104f92b26128c5513d23aa4a8305a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{10}
+      \field{title}{Understanding Transformers — Encoder}
+      \field{urlday}{6}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@mr.sk12112002/understanding-transformers-encoder-1f269b1cc943#:~:text=Transformer Architecture:&text=The encoder takes in the,, etc-encoded in them.
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@mr.sk12112002/understanding-transformers-encoder-1f269b1cc943#:~:text=Transformer%20Architecture:&text=The%20encoder%20takes%20in%20the,,%20etc-encoded%20in%20them.
+      \endverb
+      \keyw{encoder,transformer}
+    \endentry
+    \entry{Team2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=08fd4ed963c8aa9f4aa9d40ff42d6e8e}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={Chatbot},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{fullhash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{fullhashraw}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{bibnamehash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{authorbibnamehash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{authornamehash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{authorfullhash}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \strng{authorfullhashraw}{08fd4ed963c8aa9f4aa9d40ff42d6e8e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{10}
+      \field{title}{Hybrid Chatbot: Everything You Need To Know (2023 Complete Guide)}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.linkedin.com/pulse/hybrid-chatbot-everything-you-need-know-2023-complete-guide
+      \endverb
+      \verb{url}
+      \verb https://www.linkedin.com/pulse/hybrid-chatbot-everything-you-need-know-2023-complete-guide
+      \endverb
+      \keyw{hybrid chatbot,hybrid,guide}
+    \endentry
+    \entry{Woo}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bba2451305c17b07cf18f7ba132e7b1d}{%
+           family={Woo},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima James},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=adf505e82e7c3b09e9e0df6c5c1ca1dd}{%
+           family={Susanto},
+           familyi={S\bibinitperiod},
+           given={Hengky},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7405ddd05d82415227c6c3e2647674f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yanzhi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f9ecfdc28017d8bdfa94b9883a3090e4}
+      \strng{fullhash}{07c3e14bd0a3e0abfc743d614109003d}
+      \strng{fullhashraw}{07c3e14bd0a3e0abfc743d614109003d}
+      \strng{bibnamehash}{07c3e14bd0a3e0abfc743d614109003d}
+      \strng{authorbibnamehash}{07c3e14bd0a3e0abfc743d614109003d}
+      \strng{authornamehash}{f9ecfdc28017d8bdfa94b9883a3090e4}
+      \strng{authorfullhash}{07c3e14bd0a3e0abfc743d614109003d}
+      \strng{authorfullhashraw}{07c3e14bd0a3e0abfc743d614109003d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Natural Language Generation in Student Writing: Language Features, Strategies andLinks to Successful Writing}
+    \endentry
+    \entry{LvxiaoweiXu2023}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d849831bac6adfefd649efe3a9b34a7d}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Lvxiaowei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Department of Computer Science}%
+        {Technology, Zhejiang University}%
+      }
+      \strng{namehash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{fullhash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{fullhashraw}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{bibnamehash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{authorbibnamehash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{authornamehash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{authorfullhash}{d849831bac6adfefd649efe3a9b34a7d}
+      \strng{authorfullhashraw}{d849831bac6adfefd649efe3a9b34a7d}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{month}{6}
+      \field{title}{Enhancing Language Representation with Constructional Information forNatural Language Understanding}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \keyw{NLU}
+    \endentry
+    \entry{Yang2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2b264f6e8031e9414ddb65a73b1e33b2}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Angelina},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3aed0d87cf3948ce22185818f18c5e1f}{%
+           family={Halim},
+           familyi={H\bibinitperiod},
+           given={Sadaf},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{fullhash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{fullhashraw}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{bibnamehash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{authorbibnamehash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{authornamehash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{authorfullhash}{e1f3d491df96b6c26cee471ad741fb0e}
+      \strng{authorfullhashraw}{e1f3d491df96b6c26cee471ad741fb0e}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Student Research}
+      \field{title}{Natural Language Generation Using Machine LearningTechniques}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \missing{GenerativeAI2024}
+  \missing{SorabGhaswalla2023}
+\endrefsection
+\endinput
+

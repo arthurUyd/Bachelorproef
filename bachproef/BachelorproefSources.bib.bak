@@ -1,0 +1,359 @@
+@Online{Arthur,
+  author       = {Arnx Arthur},
+  date         = {2019-01-13},
+  title        = {First neural network for beginners explained (with code)},
+  url          = {https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf},
+  urldate      = {2024-02-28},
+  journaltitle = {Medium},
+  keywords     = {neural network},
+}
+
+@Online{divbyte,
+  author   = {divbyte},
+  editor   = {divbyte},
+  title    = {The Importance of Artificial Intelligence in Web Development},
+  url      = {https://divbyte.com/importance-artificial-intelligence-web-development/},
+  urldate  = {2024-02-28},
+  keywords = {importance, use, web development},
+}
+
+@Online{IBM,
+  author   = {IBM},
+  title    = {What is machine learning},
+  url      = {https://www.ibm.com/topics/machine-learning},
+  urldate  = {2024-02-28},
+  keywords = {machine learning, ibm, neural network, deep learning},
+}
+
+@Online{IBMa,
+  author   = {IBM},
+  title    = {What is natural language processing (NLP)?},
+  url      = {https://www.ibm.com/topics/natural-language-processing},
+  urldate  = {2024-02-28},
+  keywords = {NLP, natural language processing, language, text, speech},
+}
+
+@Online{Margo2023,
+  author   = {Poda Margo},
+  date     = {2023-07-06},
+  title    = {what is an AI copilot?},
+  url      = {https://www.moveworks.com/us/en/resources/blog/what-is-an-ai-copilot#what-is-an-ai-copilot},
+  urldate  = {2024-02-28},
+  keywords = {copilot},
+}
+
+@Online{Margo2023a,
+  author   = {Poda Margo},
+  date     = {2023-02-09},
+  title    = {Large language models: The basics and their applications},
+  url      = {https://www.moveworks.com/us/en/resources/blog/large-language-models-strengths-and-weaknesses#what-are-large-language-models},
+  urldate  = {2024-02-28},
+  keywords = {Large language models, LLM, language, text},
+}
+
+@Thesis{Couton2023,
+  author      = {Kwinten Couton},
+  date        = {2023},
+  institution = {HOGent},
+  title       = {Een Onderzoek naar AI Programmeerassistenten met Oog op het Correct Omgaan met Licenties en Informatieveiligheid.},
+  pages       = {62},
+  file        = {thesis copilot:1499_201859821_PBA-TIN_scriptie.pdf:PDF},
+  keywords    = {copilot, thesis, licenties, informatieveiligheid, veiligheid},
+}
+
+@Thesis{Bergmans2021,
+  author      = {Joke Bergmans},
+  date        = {2021},
+  institution = {HOGent},
+  title       = {Hoe kan men artificiële intelligentie gebruiken om een onboarding chatbot te evalueren en teoptimaliseren?},
+  file        = {chatbot training:2979_201860434_PBA-TIN_scriptie.pdf:PDF},
+  keywords    = {chatbot, training, evalueren, optimaliseren},
+}
+
+@Thesis{Vylder2022,
+  author      = {Stefaan De Vylder},
+  date        = {2022},
+  institution = {HOGent},
+  title       = {De invloed van artificiële intelligentie op de user experience van webapplicaties},
+  file        = {UX webapplicaties:1108_201859695_PBA-TIN_scriptie.pdf:PDF},
+  keywords    = {user experience, UX, webapplicaties},
+}
+
+@Thesis{Dendoncker2022,
+  author      = {Hannes Dendoncker},
+  date        = {2022},
+  institution = {HOGent},
+  title       = {Intelligente chatbot als begeleidende relatie tussen ontwikkelingsteams en ondersteuningsteam: proof ofconcept},
+  file        = {chatbot teams:1085_201968030_PBA-TIN_scriptie.pdf:PDF},
+  keywords    = {teams, communicatie, chatbot, team},
+}
+
+@Thesis{Dehandschutter2023,
+  author      = {Kobe Dehandschutter},
+  date        = {2023},
+  institution = {HOGent},
+  title       = {De mogelijkheden voor data-extractie inongestructureerde masterdata op basisvan clustering: een vergelijkende studie.},
+  file        = {data extraction:1434_202073809_PBA-TIN_scriptie.pdf:PDF},
+  keywords    = {data, extractie, ongestructureerd, clustering},
+}
+
+@Thesis{Mestdagh2021,
+  author      = {Remi Mestdagh},
+  date        = {2021},
+  institution = {HOGent},
+  title       = {Facturatie optimaliseren door gebruik te maken van Optical Character recognition (OCR) en MachineLearning (ML): onderzoek en proof of concept},
+  file        = {facturatie machine learning:2974_201757957_PBA-TIN_scriptie.pdf:PDF},
+  keywords    = {factuur, facturatie, OCR, machine learning},
+}
+
+@Online{Isabella2023,
+  author   = {Isabella},
+  date     = {2023-10-30},
+  title    = {Rule-Based vs. AI Chatbot: Which One is Better?},
+  url      = {https://www.airdroid.com/ai-insights/rule-based-vs-ai-chatbot/#:~:text=The key difference is that,the meaning of users' behavior.},
+  urldate  = {2024-03-07},
+  keywords = {chatbot, rule, vs},
+}
+
+@Online{Management2024,
+  author   = {Schneider IT Management},
+  date     = {2024-02-05},
+  title    = {Microsoft Copilot for Microsoft 365: Complete Guide [2024]},
+  url      = {https://www.schneider.im/fr/microsoft-365-copilot-lavenir-de-la-productivite/},
+  urldate  = {2024-03-13},
+  keywords = {copilot, microsoft, 365, guide},
+}
+
+@Online{Gandhamm2024,
+  author   = {Gandhamm},
+  date     = {2024-01-04},
+  title    = {Configure copilot features for custom case forms and custom apps},
+  url      = {https://learn.microsoft.com/en-us/dynamics365/customer-service/administer/copilot-powerapps-settings},
+  urldate  = {2024-03-13},
+  keywords = {copilot, configure, custom, features},
+}
+
+@Online{Microsoft2024,
+  author   = {Microsoft},
+  date     = {2024},
+  title    = {MIcrosoft Dynamics 365},
+  url      = {https://dynamics.microsoft.com/nl-be/what-is-dynamics365/#:~:text=Dynamics 365 is een portfolio,kunt verminderen zonder stijgende kosten.},
+  urldate  = {2024-03-21},
+  keywords = {microsoft, dynamics, 365},
+}
+
+@Online{wikipedia2024,
+  author   = {wikipedia},
+  date     = {2024-03-20},
+  title    = {microsoft copilot},
+  url      = {https://en.wikipedia.org/wiki/Microsoft_Copilot},
+  urldate  = {2024-03-21},
+  keywords = {wikipedia, microsoft, copilot},
+}
+
+@Online{Europe,
+  author   = {Council of Europe},
+  title    = {History of artificial intelligence},
+  url      = {https://www.coe.int/en/web/artificial-intelligence/history-of-ai#:~:text=1940-1960: Birth of AI,of machines and organic beings.},
+  urldate  = {2024-03-21},
+  keywords = {history, artificial intelligence, AI, Europe},
+}
+
+@Online{Elastic,
+  author   = {Elastic},
+  title    = {Qu'est-ce qu'un grand modèle de langage (LLM) ?},
+  url      = {https://www.elastic.co/fr/what-is/large-language-models},
+  urldate  = {2024-03-21},
+  keywords = {large, language, model, LLM},
+}
+
+@Online{Hutchison2021,
+  author   = {Graeme Hutchison},
+  date     = {2021-06-28},
+  title    = {Four Types of Machine Learning Algorithms Explained},
+  url      = {https://www.seldon.io/four-types-of-machine-learning-algorithms-explained},
+  urldate  = {2024-03-21},
+  keywords = {machine learning, ML, algoritme, algoritmes},
+}
+
+@Online{Oracle,
+  author   = {Oracle},
+  title    = {Qu'est-ce que le deep learning ?},
+  url      = {https://www.oracle.com/ch-fr/artificial-intelligence/machine-learning/what-is-deep-learning/#:~:text=le deep learning ?-,Deep learning, définition,de grandes quantités de données.},
+  urldate  = {2024-03-22},
+  keywords = {deep, learning, oracle},
+}
+
+@Online{IBMb,
+  author   = {IBM},
+  title    = {What is a neural network?},
+  url      = {https://www.ibm.com/topics/neural-networks},
+  keywords = {neural, network, IBM, deep},
+}
+
+@Online{Nemeon,
+  author   = {Nemeon},
+  title    = {Transformers: natuurlijke taalverwerking revolutioneren},
+  url      = {https://nemeon.io/nl/2023/12/11/transformers-revolutionizing-natural-language-processing/},
+  urldate  = {2024-03-22},
+  keywords = {transformers, taalverwerking, zelfaandachtsmechanisme, encoder, decoder},
+}
+
+@Online{Engage,
+  author   = {Spotler Engage},
+  title    = {De Spotler Engage Chatbot Checklist},
+  url      = {https://spotlerengage.com/nl/whitepapers/chatbot-checklist/},
+  urldate  = {2024-03-26},
+  keywords = {chatbot, checklist},
+}
+
+@Online{oracle,
+  author   = {oracle},
+  title    = {what is a chatbot?},
+  url      = {https://www.oracle.com/be/chatbots/what-is-a-chatbot/},
+  urldate  = {2024-03-26},
+  keywords = {chatbot, what, is},
+}
+
+@Online{Microsoft2023,
+  author   = {Microsoft 365},
+  date     = {2023-10-26},
+  title    = {Microsoft 365 Chat: Your Personal Assistant at Work},
+  url      = {https://www.youtube.com/watch?v=214i-FNKZ_s},
+  urldate  = {2024-03-26},
+  keywords = {microsoft, 365, chat, video, youtube},
+}
+
+@Online{Microsoft2024a,
+  author   = {Microsoft},
+  date     = {2024-02-12},
+  title    = {Get started with Microsoft Copilot with Graph-grounded chat},
+  url      = {https://support.microsoft.com/en-gb/topic/get-started-with-microsoft-copilot-with-graph-grounded-chat-5b00a52d-7296-48ee-b938-b95b7209f737#:~:text=Microsoft Copilot with Graph-grounded chat (previously named Microsoft 365,skills in a chat experience.},
+  urldate  = {2024-03-26},
+  keywords = {microsoft, copilot, graph-grounded, chat, chatbot},
+}
+
+@Online{Mooney2023,
+  author   = {Jess Mooney},
+  date     = {2023-01-23},
+  title    = {What Is Dynamics 365 Customer Service?},
+  url      = {https://www.encorebusiness.com/blog/what-is-dynamics-365-for-customer-service-crm/},
+  urldate  = {2024-03-27},
+  keywords = {dynamics, 365, Customer, Service},
+}
+
+@Online{STATBEL2023,
+  author   = {STATBEL},
+  date     = {2023-12-07},
+  title    = {Bijna een op de twee grote bedrijven gebruikt artificiële intelligentie},
+  url      = {https://statbel.fgov.be/nl/nieuws/bijna-een-op-de-twee-grote-bedrijven-gebruikt-artificiele-intelligentie},
+  urldate  = {2024-05-01},
+  keywords = {bedrijven, gebruikt},
+}
+
+@Online{IBMc,
+  author   = {IBM},
+  title    = {What is AI?},
+  url      = {https://www.ibm.com/topics/artificial-intelligence},
+  urldate  = {2024-05-02},
+  keywords = {ai, artificial intelligence, what},
+}
+
+@Online{Freshworks,
+  author   = {Freshworks},
+  title    = {What is a natural language processing (NLP) chatbot?},
+  url      = {https://www.freshworks.com/chatbots/nlp/},
+  urldate  = {2024-05-02},
+  keywords = {nlp, natural language processing, chatbot},
+}
+
+@Online{Qualtrics,
+  author   = {Qualtrics},
+  title    = {What is natural language understanding?},
+  url      = {https://www.qualtrics.com/uk/experience-management/customer/natural-language-understanding/?rid=cookie&prevsite=en&newsite=uk&geo=&geomatch=},
+  urldate  = {2024-05-02},
+  keywords = {natural language understanding, NLU},
+}
+
+@Online{Uspenskyi2024,
+  author   = {Serhii Uspenskyi},
+  date     = {2024-01-11},
+  title    = {NLP vs LLM: Main Differences Between Natural Language Processing and Large Language Models},
+  url      = {https://springsapps.com/knowledge/nlp-vs-llm-main-differences-between-natural-language-processing-and-large-language-models#:~:text=NLP can be found in,and make human-like text.},
+  urldate  = {2024-05-03},
+  keywords = {nlp, llm, differences},
+}
+
+@Online{Heidloff2023,
+  author   = {Niklas Heidloff},
+  date     = {2023-02-24},
+  title    = {Foundation Models, Transformers, BERT and GPT},
+  url      = {https://heidloff.net/article/foundation-models-transformers-bert-and-gpt/},
+  keywords = {foundation models, bert, gpt, transformers, encoder, decoderS},
+}
+
+@Online{Schulze2024,
+  author   = {Jessica Schulze},
+  date     = {2024-03-19},
+  title    = {What Is GPT? GPT-3, GPT-4, and More Explained},
+  url      = {https://www.coursera.org/articles/what-is-gpt},
+  urldate  = {2024-05-03},
+  keywords = {GPT},
+}
+
+@Online{Patel2024,
+  author   = {Snigdha Patel},
+  date     = {2024-03-21},
+  title    = {5 Different Types of Chatbots for Business Growth},
+  url      = {https://www.revechat.com/blog/types-of-chatbot/},
+  urldate  = {2024-05-03},
+  keywords = {chatbots, types, different, business},
+}
+
+@Thesis{LvxiaoweiXu2023,
+  author      = {Lvxiaowei Xu,},
+  date        = {2023-06-05},
+  institution = {Department of Computer Science and Technology, Zhejiang University},
+  title       = {Enhancing Language Representation with Constructional Information forNatural Language Understanding},
+  keywords    = {NLU},
+}
+
+@Article{Yang2022,
+  author       = {Angelina Yang and Sadaf Halim},
+  date         = {2022},
+  journaltitle = {Journal of Student Research},
+  title        = {Natural Language Generation Using Machine LearningTechniques},
+}
+
+@Article{Woo,
+  author = {David James Woo and Hengky Susanto and Yanzhi Wang},
+  title  = {Natural Language Generation in Student Writing: Language Features, Strategies andLinks to Successful Writing},
+}
+
+@Online{Suresh2022,
+  author   = {Sathya Krishnan Suresh},
+  date     = {2022-10-12},
+  title    = {Understanding Transformers — Encoder},
+  url      = {https://medium.com/@mr.sk12112002/understanding-transformers-encoder-1f269b1cc943#:~:text=Transformer Architecture:&text=The encoder takes in the,, etc-encoded in them.},
+  urldate  = {2024-05-06},
+  keywords = {encoder, transformer},
+}
+
+@Online{Team2023,
+  author   = {Chatbot Team},
+  date     = {2023-10-03},
+  title    = {Hybrid Chatbot: Everything You Need To Know (2023 Complete Guide)},
+  url      = {https://www.linkedin.com/pulse/hybrid-chatbot-everything-you-need-know-2023-complete-guide},
+  urldate  = {2024-05-09},
+  keywords = {hybrid chatbot, hybrid, guide},
+}
+
+@Online{Salim,
+  author   = {Ashik Salim},
+  title    = {Understanding semantic kernel},
+  url      = {https://valoremreply.com/post/understanding-semantic-kernel/#:~:text=Gen AI applications.-,Semantic Kernel (SK) is an AI Software Development Kit (,subsequent announcements at BUILD 2023.},
+  urldate  = {2024-05-09},
+  keywords = {semantic kernel, understanding},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

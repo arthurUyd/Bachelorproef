@@ -1,0 +1,24 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'UydensArthurBP.blg'
+[143] biber-MSWIN64:340> INFO - === 
+[184] Biber.pm:420> INFO - Reading 'UydensArthurBP.bcf'
+[353] Biber.pm:994> INFO - Found 18 citekeys in bib section 0
+[379] Biber.pm:4463> INFO - Processing section 0
+[393] Biber.pm:4654> INFO - Looking for bibtex file 'BachelorproefSources.bib' for section 0
+[462] bibtex.pm:1713> INFO - LaTeX decoding ...
+[552] bibtex.pm:1519> INFO - Found BibTeX data source 'BachelorproefSources.bib'
+[691] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[691] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[691] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[691] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
+[727] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[727] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[727] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[727] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
+[750] bbl.pm:676> INFO - Writing 'UydensArthurBP.bbl' with encoding 'UTF-8'
+[769] bbl.pm:779> INFO - Output to UydensArthurBP.bbl
+[769] Biber.pm:131> WARN - Possible typo (case mismatch) between datasource keys: 'oracle' and 'Oracle' in file 'BachelorproefSources.bib'
+[769] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[769] Biber.pm:131> WARN - I didn't find a database entry for 'GenerativeAI2024' (section 0)
+[769] Biber.pm:131> WARN - I didn't find a database entry for 'SorabGhaswalla2023' (section 0)
+[769] Biber.pm:133> INFO - WARNINGS: 4
